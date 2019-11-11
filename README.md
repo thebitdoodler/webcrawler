@@ -17,6 +17,6 @@ To execute it:
 ```python crawler.py```
 
 
- 
+ _Lastly, Do not forget to download the subdomains.list file._
 If you think you want to contribute new feature to it then please go for it.
 Thank You!!
