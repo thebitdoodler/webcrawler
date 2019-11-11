@@ -5,12 +5,12 @@ A Simple Web Crawler Using Python
 ![Web Crawler](https://user-images.githubusercontent.com/49448018/68621539-09bbf400-04f6-11ea-9883-1809ee4d4369.jpg)
 
 
-*IMPORTANT GUIDLINES*
+**IMPORTANT GUIDLINES**
 
 _Make sure you are running this program on CLI for better output._
 To download type:
 
-```git clone ""```
+```git clone "https://github.com/anshumandas000/webcrawler.git"```
 
 To execute it:
 
