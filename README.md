@@ -1,6 +1,6 @@
-# webcrawler
+# crawler-web
 A Simple Web Crawler Using Python 
-
+---
 
 ![Web Crawler](https://user-images.githubusercontent.com/49448018/68621539-09bbf400-04f6-11ea-9883-1809ee4d4369.jpg)
 
